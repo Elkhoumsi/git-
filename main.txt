@@ -1,4 +1,4 @@
 A
-BBBBB
+BB
 C
 D
